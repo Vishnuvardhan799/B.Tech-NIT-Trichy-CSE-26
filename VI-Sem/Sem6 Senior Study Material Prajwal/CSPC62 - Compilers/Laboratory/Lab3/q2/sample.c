@@ -1,0 +1,3 @@
+while(dgs){
+    dgdshs
+}
