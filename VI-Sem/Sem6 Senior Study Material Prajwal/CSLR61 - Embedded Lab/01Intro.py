@@ -1,1 +1,0 @@
-print("Welcome to GPIO Programming with Raspberry PI!")
